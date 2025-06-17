@@ -129,7 +129,7 @@ const API_SITES = {
         adult: true
     },
     jkun: {
-        api: 'https://jkunzyapi.com',
+        api: 'https://www.jkunzyapi.com/api.php/provide/vod/',
         name: 'jkun资源',
         adult: true
     },
